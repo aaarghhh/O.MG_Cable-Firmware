@@ -1,0 +1,253 @@
+{
+  "ascii_20": "key_space",
+  "ascii_21": [
+    "key_1",
+    "modifierkey_shift"
+  ],
+  "ascii_22": [
+    "key_2",
+    "modifierkey_shift"
+  ],
+  "ascii_23": [
+    "key_quote",
+    "modifierkey_right_alt"
+  ],
+  "ascii_24": [
+    "key_4",
+    "modifierkey_shift"
+  ],
+  "ascii_25": [
+    "key_5",
+    "modifierkey_shift"
+  ],
+  "ascii_26": [
+    "key_6",
+    "modifierkey_shift"
+  ],
+  "ascii_27": "key_minus",
+  "ascii_28": [
+    "key_8",
+    "modifierkey_shift"
+  ],
+  "ascii_29": [
+    "key_9",
+    "modifierkey_shift"
+  ],
+  "ascii_2a": [
+    "key_right_brace",
+    "modifierkey_shift"
+  ],
+  "ascii_2b": "key_right_brace",
+  "ascii_2c": "key_comma",
+  "ascii_2d": "key_slash",
+  "ascii_2e": "key_period",
+  "ascii_2f": [
+    "key_7",
+    "modifierkey_shift"
+  ],
+  "ascii_30": "key_0",
+  "ascii_31": "key_1",
+  "ascii_32": "key_2",
+  "ascii_33": "key_3",
+  "ascii_34": "key_4",
+  "ascii_35": "key_5",
+  "ascii_36": "key_6",
+  "ascii_37": "key_7",
+  "ascii_38": "key_8",
+  "ascii_39": "key_9",
+  "ascii_3a": [
+    "key_period",
+    "modifierkey_shift"
+  ],
+  "ascii_3b": [
+    "key_comma",
+    "modifierkey_shift"
+  ],
+  "ascii_3c": "key_non_us_100",
+  "ascii_3d": [
+    "key_0",
+    "modifierkey_shift"
+  ],
+  "ascii_3e": [
+    "key_non_us_100",
+    "modifierkey_shift"
+  ],
+  "ascii_3f": [
+    "key_minus",
+    "modifierkey_shift"
+  ],
+  "ascii_40": [
+    "key_semicolon",
+    "modifierkey_right_alt"
+  ],
+  "ascii_41": [
+    "key_a",
+    "modifierkey_shift"
+  ],
+  "ascii_42": [
+    "key_b",
+    "modifierkey_shift"
+  ],
+  "ascii_43": [
+    "key_c",
+    "modifierkey_shift"
+  ],
+  "ascii_44": [
+    "key_d",
+    "modifierkey_shift"
+  ],
+  "ascii_45": [
+    "key_e",
+    "modifierkey_shift"
+  ],
+  "ascii_46": [
+    "key_f",
+    "modifierkey_shift"
+  ],
+  "ascii_47": [
+    "key_g",
+    "modifierkey_shift"
+  ],
+  "ascii_48": [
+    "key_h",
+    "modifierkey_shift"
+  ],
+  "ascii_49": [
+    "key_i",
+    "modifierkey_shift"
+  ],
+  "ascii_4a": [
+    "key_j",
+    "modifierkey_shift"
+  ],
+  "ascii_4b": [
+    "key_k",
+    "modifierkey_shift"
+  ],
+  "ascii_4c": [
+    "key_l",
+    "modifierkey_shift"
+  ],
+  "ascii_4d": [
+    "key_m",
+    "modifierkey_shift"
+  ],
+  "ascii_4e": [
+    "key_n",
+    "modifierkey_shift"
+  ],
+  "ascii_4f": [
+    "key_o",
+    "modifierkey_shift"
+  ],
+  "ascii_50": [
+    "key_p",
+    "modifierkey_shift"
+  ],
+  "ascii_51": [
+    "key_q",
+    "modifierkey_shift"
+  ],
+  "ascii_52": [
+    "key_r",
+    "modifierkey_shift"
+  ],
+  "ascii_53": [
+    "key_s",
+    "modifierkey_shift"
+  ],
+  "ascii_54": [
+    "key_t",
+    "modifierkey_shift"
+  ],
+  "ascii_55": [
+    "key_u",
+    "modifierkey_shift"
+  ],
+  "ascii_56": [
+    "key_v",
+    "modifierkey_shift"
+  ],
+  "ascii_57": [
+    "key_w",
+    "modifierkey_shift"
+  ],
+  "ascii_58": [
+    "key_x",
+    "modifierkey_shift"
+  ],
+  "ascii_59": [
+    "key_y",
+    "modifierkey_shift"
+  ],
+  "ascii_5a": [
+    "key_z",
+    "modifierkey_shift"
+  ],
+  "ascii_5b": [
+    "key_left_brace",
+    "modifierkey_right_alt"
+  ],
+  "ascii_5c": "key_tilde",
+  "ascii_5d": [
+    "key_right_brace",
+    "modifierkey_right_alt"
+  ],
+  "ascii_5e": [
+    "key_equal",
+    "modifierkey_shift"
+  ],
+  "ascii_5f": [
+    "key_slash",
+    "modifierkey_shift"
+  ],
+  "ascii_61": "key_a",
+  "ascii_62": "key_b",
+  "ascii_63": "key_c",
+  "ascii_64": "key_d",
+  "ascii_65": "key_e",
+  "ascii_66": "key_f",
+  "ascii_67": "key_g",
+  "ascii_68": "key_h",
+  "ascii_69": "key_i",
+  "ascii_6a": "key_j",
+  "ascii_6b": "key_k",
+  "ascii_6c": "key_l",
+  "ascii_6d": "key_m",
+  "ascii_6e": "key_n",
+  "ascii_6f": "key_o",
+  "ascii_70": "key_p",
+  "ascii_71": "key_q",
+  "ascii_72": "key_r",
+  "ascii_73": "key_s",
+  "ascii_74": "key_t",
+  "ascii_75": "key_u",
+  "ascii_76": "key_v",
+  "ascii_77": "key_w",
+  "ascii_78": "key_x",
+  "ascii_79": "key_y",
+  "ascii_7a": "key_z",
+  "ascii_7b": [
+    "key_left_brace",
+    "modifierkey_right_alt",
+    "modifierkey_shift"
+  ],
+  "ascii_7c": [
+    "key_tilde",
+    "modifierkey_shift"
+  ],
+  "ascii_7d": [
+    "key_right_brace",
+    "modifierkey_right_alt",
+    "modifierkey_shift"
+  ],
+  "iso_8859_1_e0": "key_quote",
+  "iso_8859_1_e8": "key_left_brace",
+  "iso_8859_1_e9": [
+    "key_left_brace",
+    "modifierkey_shift"
+  ],
+  "iso_8859_1_ec": "key_equal",
+  "iso_8859_1_f2": "key_semicolon",
+  "iso_8859_1_f9": "key_backslash"
+}
